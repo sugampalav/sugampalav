@@ -6,7 +6,7 @@ I'm a passionate web developer with 4 years of experience in full-stack developm
 
 - Front-end: HTML, CSS, JavaScript, React, Next.js
 - Back-end: Node.js, Express
-- Database: MongoDB, MySQL
+- Database: MongoDB, MySQL, Redux
 - Version Control: Git
 - Animation: Framer Motion, GSAP
 - Deployment: Heroku, Vercel, Netlify
