@@ -8,9 +8,8 @@ I'm a passionate web developer with 4 years of experience in full-stack developm
 - Back-end: Node.js, Express
 - Database: MongoDB, MySQL
 - Version Control: Git
-- Animation: Framer Motion
+- Animation: Framer Motion, GSAP
 - Deployment: Heroku, Vercel, Netlify
-- DevOps: Docker, CI/CD
 - Tools: Visual Studio Code, Git, Postman
 
 ## 🚀 What I'm Currently Working On
