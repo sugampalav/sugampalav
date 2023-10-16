@@ -33,8 +33,4 @@ I'm open to collaboration and new opportunities. Feel free to reach out if you'd
 - LinkedIn: https://www.linkedin.com/in/sugampalav/
 - Email: sugampalav.dev@gmail.com
 
-## 🏆 My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
 Thanks for stopping by! 😄
